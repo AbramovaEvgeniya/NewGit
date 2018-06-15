@@ -9,6 +9,7 @@ namespace MyGame
     class Game
     {
     	int age = 50;
+        string name = "Cat";
 
     }
 }
